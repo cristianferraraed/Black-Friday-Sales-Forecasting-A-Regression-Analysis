@@ -1,6 +1,4 @@
-# Black Friday Sales Prediction Analysis - Regression
-
-**Complete Video Tutorial:** https://youtu.be/ID8Lz5vR3qE
+# Black Friday Sales Forecasting: A Regression Analysis
 
 # Dataset Information
 
